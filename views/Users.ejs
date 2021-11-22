@@ -1,0 +1,16 @@
+
+
+  <%- include('partials/header'); %>
+
+  <h1 style="text-align: center;">User List</h1>
+
+<div class="container">
+    <% posts.forEach(function(post){  %>
+        <ul class="list-group">
+            
+        
+            <li class="list-group-item list-group-item-dark"><%= post.name %></li>
+          </ul>
+     <% }) %>
+  </div>
+<%- include('partials/footer'); %>
