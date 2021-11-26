@@ -41,11 +41,15 @@ and to run this project simply write :
 - mongodb
 - mongoose
 ## Screenshots
-- 1
+- 1 Home page 
+- 
 ![Picture1](https://user-images.githubusercontent.com/63139522/143552543-5affac19-6ac6-4de9-b116-618e97947a0d.png)
-- 2
+- 2 Blog page 
+- 
 ![Picture2](https://user-images.githubusercontent.com/63139522/143552555-47bfd952-ef46-43b3-8418-98c9c5aaa8a6.png)
-- 3
+- 3 Get Registered page 
+- 
 ![Picture3](https://user-images.githubusercontent.com/63139522/143552561-db7c7c4e-2227-4d8f-bc38-16dd72dc704e.png)
-- 4
+- 4 compose your blog page
+-  
 ![Picture4](https://user-images.githubusercontent.com/63139522/143552562-5e7b5559-266e-4a75-af17-9b98c26ef81c.png)
